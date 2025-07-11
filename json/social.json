@@ -10,5 +10,17 @@
     "nameFa": "شماره تلفن",
     "logo": "https://raw.githubusercontent.com/Mahdi-Askari/public-assets/refs/heads/main/icons/Phone_iOS.png",
     "contact_link": "tel:+989938058556"
+  },
+  {
+    "name": "Instagram",
+    "nameFa": "اینستاگرام",
+    "logo": "https://raw.githubusercontent.com/Mahdi-Askari/public-assets/refs/heads/main/icons/Instagram.png",
+    "contact_link": "https://www.instagram.com/sheporki"
+  },
+  {
+    "name": "Discord",
+    "nameFa": "دیسکورد",
+    "logo": "https://raw.githubusercontent.com/Mahdi-Askari/public-assets/refs/heads/main/icons/Discord.svg",
+    "contact_link": "https://discordapp.com/users/409393711923855361"
   }
 ]
